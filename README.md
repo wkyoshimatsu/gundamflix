@@ -9,6 +9,6 @@ Utilizado:
 - JQuery (owl-carousel)
 
 Fontes:
-https://www.themoviedb.org/
-https://gundam.fandom.com/
+https://www.themoviedb.org/<br>
+https://gundam.fandom.com/<br>
 https://www.flaticon.com/br/icone-gratis/gundam_1499993 by smalllikeart
